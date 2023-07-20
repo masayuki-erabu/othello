@@ -1,3 +1,4 @@
+// github練習
 const board = document.getElementById('board')
 
 let count = 0
